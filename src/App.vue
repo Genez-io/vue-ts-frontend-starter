@@ -35,7 +35,7 @@
 </template>
 
 <script>
-import { BackendService } from '@genezio-sdk/(•◡•)project-name(•◡•)_(•◡•)region(•◡•)';
+import { BackendService } from '@genezio-sdk/(•◡•)project-name(•◡•)';
 
 export default {
   data() {
